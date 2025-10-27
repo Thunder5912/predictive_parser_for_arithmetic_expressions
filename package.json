@@ -1,0 +1,9 @@
+{
+  "name": "predictive-parser",
+  "version": "1.0.0",
+  "main": "api/parse.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  }
+}
